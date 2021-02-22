@@ -36,3 +36,9 @@ I have special interest in data science and artificial intelligence concepts; ma
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HazarZYGC)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazarzygc&show_icons=true&locale=en&layout=compact" alt="hazarzygc" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hazarzygc&show_icons=true&locale=en" alt="hazarzygc" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hazarzygc&" alt="hazarzygc" /></p>
