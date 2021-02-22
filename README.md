@@ -16,7 +16,7 @@ I have special interest in data science and artificial intelligence concepts; ma
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="<img src="https://img.icons8.com/nolan/64/python.png"/>" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
@@ -35,10 +35,3 @@ I have special interest in data science and artificial intelligence concepts; ma
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HazarZYGC)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazarzygc&show_icons=true&locale=en&layout=compact" alt="hazarzygc" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hazarzygc&show_icons=true&locale=en" alt="hazarzygc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hazarzygc&" alt="hazarzygc" /></p>
