@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Hazar
-#### I'm a third-year computer engineering student at Dokuz Eylul University.
+#### I'm a fourth-year computer engineering student at Dokuz Eylul University.
 I have special interest in data science and artificial intelligence data science concepts. I want to improve myself in these fields under favour of participating to project groups and competitions. In addition, I took a part of several projects different fields. They are accessible on my github account. 
 
 - 🔭 I’m currently working on deep learning and data preprocesing projects 
